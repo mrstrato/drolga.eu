@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strona Główna on Moja Strona</title>
+    <link>http://192.168.1.172:1344/</link>
+    <description>Recent content in Strona Główna on Moja Strona</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <atom:link href="http://192.168.1.172:1344/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Klauzula Informacyjna dla Pacjentów</title>
+      <link>http://192.168.1.172:1344/podstrona2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.172:1344/podstrona2/</guid>
+      <description>Zgodnie z art. 13 ust. 1 i 2 Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. (RODO), informuję, że:&#xA;1. Administrator danych osobowych Administratorem Państwa danych osobowych jest:&#xA;Olga Kwiecińska&#xA;Adres: ul. Wyszyńskiego 26, 89-634 Leśno&#xA;2. Cel przetwarzania danych oraz podstawa prawna Państwa dane osobowe są przetwarzane w celu:&#xA;Udzielania świadczeń zdrowotnych oraz prowadzenia dokumentacji medycznej&#xA;(zgodnie z art. 6 ust. 1 lit. c RODO – obowiązek prawny oraz art.</description>
+    </item>
+    <item>
+      <title>Klauzula Informacyjna dla Pacjentów</title>
+      <link>http://192.168.1.172:1344/rodo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.172:1344/rodo/</guid>
+      <description>Zgodnie z art. 13 ust. 1 i 2 Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. (RODO), informuję, że:&#xA;1. Administrator danych osobowych Administratorem Państwa danych osobowych jest:&#xA;Olga Kwiecińska&#xA;Adres: ul. Wyszyńskiego 26, 89-634 Leśno&#xA;2. Cel przetwarzania danych oraz podstawa prawna Państwa dane osobowe są przetwarzane w celu:&#xA;Udzielania świadczeń zdrowotnych oraz prowadzenia dokumentacji medycznej&#xA;(zgodnie z art. 6 ust. 1 lit. c RODO – obowiązek prawny oraz art.</description>
+    </item>
+    <item>
+      <title>Podstrona 1</title>
+      <link>http://192.168.1.172:1344/podstrona1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.172:1344/podstrona1/</guid>
+      <description>Treść podstrony 1.</description>
+    </item>
+  </channel>
+</rss>
